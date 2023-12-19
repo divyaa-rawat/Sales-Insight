@@ -1,4 +1,4 @@
-# HR Data Analytics
+# Sales Insights 
 
 
 ### Check Out the Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjE4YjIyNDUtNmYxZC00YjY2LWE3MmYtOGRlNGZhMGFmYjQ3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
