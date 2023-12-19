@@ -64,7 +64,7 @@ The dashboard included key insights, profit analytics, and performance metrics. 
                - Total Profit Margin = sum('sales transactions'[profit_margin])
 
 
-- step 5 : Creat three important report pages 
+- step 5 : Created three important report pages 
 
                1. key Insights         - A quick overview of the most important findings and trends.
 
